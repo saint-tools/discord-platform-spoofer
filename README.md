@@ -23,7 +23,7 @@ A lightweight Python tool that connects a single Discord account across multiple
 ## Requirements
 
 - Python 3.10+
-- `discord.py`
+- `discord.py-self`
 
 Install dependencies:
 
