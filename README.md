@@ -45,8 +45,6 @@ Edit `config.json` before running:
 - **`token`** - Your Discord user token.
 - **`active_platforms`** - List of platforms to spoof. Remove any you don't want active.
 
-> ⚠️ **Never share your token publicly or commit it to a public repository.**
-
 ## Usage
 
 ```bash
