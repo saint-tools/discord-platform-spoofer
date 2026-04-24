@@ -7,7 +7,6 @@ A lightweight Python tool that connects a single Discord account across multiple
 - Spoof multiple Discord client platforms at the same time
 - Configurable platform list via `config.json`
 - Live session monitoring through raw WebSocket events
-- Built on top of [`discord.py`](https://github.com/Rapptz/discord.py)
 
 ## Supported Platforms
 
@@ -29,7 +28,7 @@ A lightweight Python tool that connects a single Discord account across multiple
 Install dependencies:
 
 ```bash
-pip install discord.py
+pip install discord.py-self
 ```
 
 ## Configuration
