@@ -1,6 +1,6 @@
 # Discord Platform Spoofer
 
-A lightweight Python tool that connects a single Discord account across multiple spoofed platform identities simultaneously — desktop, web, iOS, Android, Xbox, PlayStation, and VR — and monitors active session data via `SESSIONS_REPLACE` events.
+A lightweight Python tool that connects a single Discord account across multiple spoofed platform identities simultaneously - desktop, web, iOS, Android, Xbox, PlayStation, and VR - and monitors active session data via `SESSIONS_REPLACE` events.
 
 ## Features
 
@@ -42,8 +42,8 @@ Edit `config.json` before running:
 }
 ```
 
-- **`token`** — Your Discord user token.
-- **`active_platforms`** — List of platforms to spoof. Remove any you don't want active.
+- **`token`** - Your Discord user token.
+- **`active_platforms`** - List of platforms to spoof. Remove any you don't want active.
 
 > ⚠️ **Never share your token publicly or commit it to a public repository.**
 
@@ -74,7 +74,7 @@ Example output:
 
 ## Disclaimer
 
-This project is for **educational and research purposes only**. Using self-bots or modifying client identification may violate [Discord's Terms of Service](https://discord.com/terms). Use at your own risk.
+This project is for **educational and research purposes only**. Using selfbots or modifying client identification may violate [Discord's Terms of Service](https://discord.com/terms). Use at your own risk.
 
 ## License
 
